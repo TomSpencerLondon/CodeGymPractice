@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task05.task0506"\n\nMinimum of N numbers
+
+To complete this task, you need to:
+1. Read a number N from the keyboard.
+2. Read N integers and fill an array with them.
+3. Find the minimum number in the elements of the array and display in on the console.
+
+
+Требования:
+1.	In the main(String[]) method, read a number N from the keyboard. Then initialize an array array of N elements and fill it in with the numbers read from the keyboard.
+2.	In the main(String[]) method, display the minimum number among the elements of the array.
+
+

@@ -1,0 +1,17 @@
+taskKey="en.codegym.task.pro.task05.task0505"\n\nReverse
+
+You need to write a program that:
+1. Reads an integer N from the console.
+2. If the number N is greater than 0, then the program reads an additional N integers.
+3. Print the numbers to the console. If N is odd, display them in the order in which there were entered. Otherwise, display them in reverse order.
+Display each number on a new line. Do not display the number N.
+
+
+Требования:
+1.	The program should read a number N, followed by N numbers.
+2.	The class must have a public static void main (String[]) method.
+3.	Do not add new methods to the Solution class.
+4.	If N is even, then the program should display N numbers in reverse order.
+5.	If N is odd, then the program should display N numbers in the order in which they were entered.
+
+

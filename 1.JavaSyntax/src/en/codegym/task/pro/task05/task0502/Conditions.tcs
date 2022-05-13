@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task05.task0502"\n\nEven and odd cells of an array
+
+In the main(String[]) method, you need to fill the strings array with values. If the array index is even, then assign the value &quot;Even&quot; (zero is an even number), otherwise assign &quot;Odd&quot;.
+The screen output is not tested.
+
+
+Требования:
+1.	The Solution class must have a public static String[] strings variable initialized with an array of 5 elements.
+2.	The main(String[]) method must fill the array according to the task conditions.
+
+

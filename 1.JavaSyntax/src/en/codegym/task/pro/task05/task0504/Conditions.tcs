@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task05.task0504"\n\nCombining arrays
+
+Implement the main(String[]) method, which needs to copy the contents of the firstArray and secondArray arrays into one resultArray array.
+The firstArray array must be at the beginning of the new resultArray array, followed by the secondArray array.
+
+
+Требования:
+1.	The Solution class must have a public static int[] firstArray variable initialized with an array with 10 values.
+2.	The Solution class must have a public static int[] secondArray variable initialized with an array with 10 values.
+3.	The Solution class must have a public static int[] resultArray variable.
+4.	Implement the main(String[]) method in accordance with the task conditions.
+
+

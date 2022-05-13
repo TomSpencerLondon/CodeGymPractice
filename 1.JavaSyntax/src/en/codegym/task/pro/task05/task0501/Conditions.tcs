@@ -1,0 +1,10 @@
+taskKey="en.codegym.task.pro.task05.task0501"\n\nCreating arrays
+
+In the main method, initialize the intArray and doubleArray variables with 10-element arrays of the corresponding types.
+
+
+Требования:
+1.	In the main(String[]) method, initialize the intArray variable according to the task conditions.
+2.	In the main(String[]) method, initialize the doubleArray variable according to the task conditions.
+
+

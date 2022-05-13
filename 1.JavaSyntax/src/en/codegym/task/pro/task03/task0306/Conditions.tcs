@@ -1,0 +1,21 @@
+taskKey="en.codegym.task.pro.task03.task0306"\n\nTriangle
+
+Let&#39;s write a program that will calculate the possibility of the existence of a triangle based on the lengths of sides.
+To do this, you need to:
+1. Enter three numbers from the keyboard &mdash; the lengths of the sides of the assumed triangle.
+2. Use the lengths of the sides to determine whether a triangle is possible.
+Depending on the result, display &quot;It&#39;s a triangle&quot; or &quot;It&#39;s not a triangle&quot;.
+To make this determination, you need to compare each side with the sum of the other two sides.
+
+That is, you will need to perform three comparisons:
+1. If each comparison indicates that the side is less than the sum of the other two sides, then a triangle with these sides does exist.
+2. If even one comparison indicates that the side is greater than or equal to the sum of the other two sides, then a triangle with these sides does not exist.
+
+
+Требования:
+1.	The program should read three number from the keyboard.
+2.	The program should display text on the screen in accordance with the task conditions.
+3.	If a triangle with the entered sides is possible, then you need to display &quot;It&#39;s a triangle&quot;.
+4.	If a triangle with the entered sides is not possible, then you need to display &quot;It&#39;s not a triangle&quot;.
+
+

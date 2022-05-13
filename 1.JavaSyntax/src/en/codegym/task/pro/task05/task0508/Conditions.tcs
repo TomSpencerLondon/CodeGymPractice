@@ -1,0 +1,17 @@
+taskKey="en.codegym.task.pro.task05.task0508"\n\nRemove duplicate strings
+
+In this task, you need to:
+1. Read 6 strings and fill the strings array with them.
+2. Remove duplicate strings from the strings array, replacing them with null (null, not the string &quot;null&quot;).
+Examples:
+The array after reading the strings:
+{&quot;Hello&quot;, &quot;Hello&quot;, &quot;World&quot;, &quot;Java&quot;, &quot;Tasks&quot;, &quot;World&quot;}
+The array after removing duplicate strings:
+{null, null, null, &quot;Java&quot;, &quot;Tasks&quot;, null}
+
+
+Требования:
+1.	In the main(String[]) method, read 6 strings from the keyboard and fill the strings array with them.
+2.	In the main(String[]) method, remove (meaning, overwrite with null) any duplicated elements in the strings array.
+
+

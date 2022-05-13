@@ -1,0 +1,9 @@
+taskKey="en.codegym.task.pro.task05.task0503"\n\nWorking with elements of an array
+
+Implement the main(String[]) method so that it reverses the sign of an element of the array if the element is even.
+
+
+Требования:
+1.	Implement the main(int[]) method in accordance with the task conditions.
+
+

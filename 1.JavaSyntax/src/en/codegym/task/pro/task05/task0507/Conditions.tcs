@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task05.task0507"\n\nMaximum of N numbers
+
+In this task, you need to:
+1. Read a number N from the keyboard.
+2. Read N integers and fill an array array with them.
+3. Find the maximum number among the elements of the array.
+
+
+Требования:
+1.	In the main(String[]) method, read a number N from the keyboard. Then initialize an array array of N elements and fill it in with the numbers read from the keyboard.
+2.	In the main(String[]) method, display the maximum number among the elements of the array.
+
+
