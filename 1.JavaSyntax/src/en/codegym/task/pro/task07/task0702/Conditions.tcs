@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task07.task0702"\n\nMaximum integer
+
+Create one variable of each primitive integer type in the Solution class.
+Assign the maximum possible value to each of these variables.
+Don&#39;t create any methods.
+
+
+Требования:
+1.	Variables of all primitive integer types must be created in the Solution class.
+2.	All of the integer variables should be assigned their maximum possible value.
+3.	No methods should be created in the Solution class.
+
+

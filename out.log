@@ -838,3 +838,13 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-05-25 07:11:24 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-05-25 07:11:25 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-05-25 07:11:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 07:14:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-05-25 07:14:30 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-05-25 07:14:36 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-05-25 07:14:37 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-05-25 07:14:37 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :/Users/tomspencer/Desktop/CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0702
+2022-05-25 07:14:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 07:16:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-05-25 07:16:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 07:16:52 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-05-25 07:16:52 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
