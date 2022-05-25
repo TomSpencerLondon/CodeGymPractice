@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task07.task0705"\n\nTo infinity and beyond!
+
+In the main method, call the div() method 2 times. For the first call, use arguments so that the screen output is &quot;Infinity&quot;.
+For the second call, the screen output should be &quot;-Infinity&quot;.
+Do not change the code of the div() method.
+
+
+Требования:
+1.	The div() method must be called 2 times in the main() method.
+2.	The two calls to the div() method should cause &quot;Infinity&quot; and &quot;-Infinity&quot; to be displayed on the console.
+3.	Do not change the code of the div() method.
+
+

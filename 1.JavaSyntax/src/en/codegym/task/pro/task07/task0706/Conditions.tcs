@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task07.task0706"\n\nStrange division
+
+In the main method, call the div() method with arguments so that the console output is &quot;NaN&quot;.
+Do not change the code of the div() method.
+
+
+Требования:
+1.	The div() method must be called in the main() method.
+2.	Calling the div() method should cause &quot;NaN&quot; to be displayed on the console.
+3.	Do not change the code of the div() method.
+
+

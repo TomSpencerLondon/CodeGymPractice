@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task07.task0707"\n\n5 shades of char
+
+In the main() method, change the order of the calls to the System.out.print() method so that the console displays the following: &quot;Hello char&quot;.
+Do not change the value of the variables. Do not add any more code in the main() method.
+
+
+Требования:
+1.	The program should display &quot;Hello char&quot; on the console.
+2.	The values of the variables must remain the same.
+3.	No new code should appear in the main() method.
+
+
