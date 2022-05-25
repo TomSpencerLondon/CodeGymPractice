@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task07.task0701"\n\nAll possible types
+
+As you already know, the Java language has a total of 8 primitive types.
+Create one variable of each primitive type in the Solution class.
+The variables must not be in any method.
+
+
+Требования:
+1.	Variables of all primitive types must be created in the Solution class.
+
+
