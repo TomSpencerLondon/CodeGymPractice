@@ -1,0 +1,16 @@
+taskKey="en.codegym.task.pro.task07.task0704"\n\nScientific notation
+
+Here are 5 well-known values.
+Rewrite them in scientific notation to make them more readable. The mantissa should be a fractional number from 1.0 to 10.
+After changing the format of the numbers, the actual value stored in the variables must not change.
+Example:
+109.1678 is decimal notation.
+1.091678E+2 is scientific notation.
+
+
+Требования:
+1.	The existing variables must be assigned values written in scientific notation.
+2.	The value of the mantissa must be a fractional number between 1.0 and 10.
+3.	The actual value of the variables must not change.
+
+
