@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task07.task0709"\n\nVery correct types
+
+Arrange the typecast operators in the expressions so that the code compiles.
+Do not change the types of the a, b, c, and d variables.
+
+
+Требования:
+1.	The types of the a, b, c, and d variables must not change.
+2.	When assigning a value to an expression, you must use a type conversion.
+
+

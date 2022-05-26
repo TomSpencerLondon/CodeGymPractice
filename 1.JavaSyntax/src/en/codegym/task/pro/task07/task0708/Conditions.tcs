@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task07.task0708"\n\nCorrect types
+
+Implement the setValues(long value) method so that it assigns value of the value parameter to the a, b, c, and d variables.
+Do not change the types of the a, b, c, and d variables.
+
+
+Требования:
+1.	The types of the a, b, c, and d variables must not change.
+2.	The setValues(long value) method must assign the input parameter to the a, b, c, and d variables.
+
+

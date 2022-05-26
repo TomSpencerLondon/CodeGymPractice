@@ -909,3 +909,53 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-05-25 07:44:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-05-25 07:44:41 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-05-25 07:44:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 08:04:10 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-05-25 08:04:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 08:04:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 08:04:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 08:04:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 08:04:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 08:04:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 08:04:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 08:04:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 08:04:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 08:04:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 08:04:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-25 08:04:15 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-05-26 19:21:15 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-05-26 19:21:15 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.57 ----------
+
+2022-05-26 19:21:15 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-05-26 19:21:15 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-05-26 19:21:15 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-05-26 19:21:15 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-05-26 19:21:15 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-05-26 19:21:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-05-26 19:21:21 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-05-26 19:21:28 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-05-26 19:21:30 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-05-26 19:21:30 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :/Users/tomspencer/Desktop/CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0708
+2022-05-26 19:23:53 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-05-26 19:23:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-26 19:23:55 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-05-26 19:24:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-05-26 19:24:34 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-26 19:24:35 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-05-26 19:24:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-26 19:25:10 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-05-26 19:25:11 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-05-26 19:25:14 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-05-26 19:25:14 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :/Users/tomspencer/Desktop/CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0709
+2022-05-26 19:25:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-26 19:26:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-05-26 19:26:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-26 19:26:04 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-05-26 19:26:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-26 19:28:35 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-05-26 19:28:36 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-05-26 19:28:40 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-05-26 19:28:42 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-05-26 19:28:42 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :/Users/tomspencer/Desktop/CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0710
+2022-05-26 19:28:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-26 19:28:42 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200

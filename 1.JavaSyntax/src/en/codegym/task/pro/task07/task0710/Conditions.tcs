@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task07.task0710"\n\nArray of values
+
+Before you start using an array, you generally need to populate it with default values.
+Implement this array-filling functionality in the fillArray(Integer[] array, int value) method.
+The method accepts an array and a fill value as arguments.
+The array is filled completely, regardless of its length.
+
+
+Требования:
+1.	The fillArray(Integer[] array, int value) method must fill the passed array with the value of the value parameter.
+
+
