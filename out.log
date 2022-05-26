@@ -959,3 +959,7 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-05-26 19:28:42 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :/Users/tomspencer/Desktop/CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0710
 2022-05-26 19:28:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-05-26 19:28:42 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-05-26 19:30:45 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-05-26 19:30:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-05-26 19:30:46 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-05-26 19:30:47 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
