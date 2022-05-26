@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task07.task0712"\n\nFirst objects
+
+Using the new operator in the main() method, create:
+- 10 String objects;
+- 5 int[] objects (arrays of int values);
+- 2 Scanner objects.
+
+
+Требования:
+1.	10 String objects should be created in the main() method.
+2.	5 int[] objects should be created in the main() method.
+3.	2 Scanner objects should be created in the main() method.
+
+
