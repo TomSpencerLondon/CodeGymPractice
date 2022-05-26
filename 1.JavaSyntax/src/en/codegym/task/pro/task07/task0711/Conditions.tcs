@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task07.task0711"\n\nFilling an array flexibly
+
+Sometimes you need to fill some part of an array with the same value or clear existing values (by setting cells equal to null).
+To do this, implement a more flexible fillArray(Integer[] array, int value, int begin, int end) method, where:
+- array is the array to be filled;
+- value is the fill value;
+- begin is the starting index of the range to fill (inclusive);
+- end is the ending index of the range to fill (exclusive).
+
+
+Требования:
+1.	The fillArray(Integer[] array, int value, int begin, int end) method must fill the passed array with the value of the value parameter.
+2.	The fillArray(Integer[] array, int value, int begin, int end) method should only fill elements from the begin index (inclusive) to the end index (exclusive).
+
+
