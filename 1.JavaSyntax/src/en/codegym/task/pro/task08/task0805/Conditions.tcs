@@ -1,0 +1,20 @@
+taskKey="en.codegym.task.pro.task08.task0805"\n\nMagic 8 ball
+
+In this task, you need to implement a getPrediction() method in the MagicBall class that works like a magic 8 ball.
+It returns a randomly chosen response to a question. In the getPrediction() method, you need to use the Random class&#39;s nextInt(int) method, which should return values from 0 to 7 inclusive.
+Depending on the value returned by nextInt(int), it returns one of these possible responses:
+0 -&gt; Certainly
+1 -&gt; Definitely
+2 -&gt; Most likely
+3 -&gt; The outlook is good
+4 -&gt; Ask later
+5 -&gt; Try again
+6 -&gt; My answer is no
+7 -&gt; Very doubtful
+Otherwise return null.
+
+
+Требования:
+1.	Реализуй метод getPrediction() согласно условию.
+
+

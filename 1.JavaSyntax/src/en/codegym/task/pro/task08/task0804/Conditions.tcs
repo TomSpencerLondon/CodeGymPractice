@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task08.task0804"\n\nRandomizer
+
+In this task, you need to implement a generateNumber() method that will return a random number between 0 and 99.
+Have the generateNumber() method use the Math.random() method.
+
+
+Требования:
+1.	The Solution class should have a public static generateNumber() method that returns an int.
+2.	Implement the generateNumber() method in accordance with the task conditions.
+
+

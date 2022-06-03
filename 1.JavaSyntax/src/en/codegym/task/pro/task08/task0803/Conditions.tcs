@@ -1,0 +1,17 @@
+taskKey="en.codegym.task.pro.task08.task0803"\n\nSmallest element of an array
+
+In this task, you need to:
+1. Read 10 numbers from the console and use them to populate an array using the getArrayOfTenElements() method.
+2. Find and return the smallest element of an array using the min(int[]) method.
+The min(int[]) method must use the Math.min(int, int) method.
+
+
+Требования:
+1.	The program should read numbers from the keyboard.
+2.	The Solution class should have only three methods.
+3.	The getArrayOfTenElements() method should read 10 numbers from the keyboard and then return an array of 10 elements, populated with the read numbers.
+4.	The min(int[]) method should use the Math class&#39;s min(int, int) method to return the smallest element of the array.
+5.	The main() method should call the getArrayOfTenElements() method.
+6.	The main() method should call the min(int[]) method.
+
+

@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task07.task0715"\n\nInheriting methods
+
+Organize the class inheritance correctly:
+- A human inherits the properties of an entity.
+- A Java developer inherits the properties of a human.
+Remove duplicate methods.
+
+
+Требования:
+1.	The Human class must inherit the Entity class.
+2.	The JavaDeveloper class must inherit the Human class.
+3.	There should be no duplicate methods.
+
+

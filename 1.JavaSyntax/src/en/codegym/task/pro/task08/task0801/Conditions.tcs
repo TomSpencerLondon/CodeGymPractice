@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task08.task0801"\n\nUtility class: part 1
+
+Implement sin(double), cos(double), and tan(double) methods that respectively return the sine, cosine, and tangent of the angle passed as an argument.
+The angle is given in degrees.
+The corresponding methods of the Math class, which take an angle specified in radians, will help you accomplish this task.
+
+
+Требования:
+1.	Implement the sin(double) method in accordance with the task conditions.
+2.	Implement the con(double) method in accordance with the task conditions.
+3.	Implement the tan(double) method in accordance with the task conditions.
+
+

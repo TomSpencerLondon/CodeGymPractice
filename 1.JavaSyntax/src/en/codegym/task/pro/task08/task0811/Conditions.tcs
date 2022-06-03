@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task08.task0811"\n\nBitwise operations
+
+Comment out unnecessary lines of code in order to display the number 5.
+Note: you need to comment out only two lines.
+
+
+Требования:
+1.	The program should display the number 5
+2.	Don&#39;t change the line with the declaration of the variable x.
+3.	Don&#39;t change the body of the main(String[]) method. Just comment out 2 specific lines.
+
+

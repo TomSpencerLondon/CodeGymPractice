@@ -1,0 +1,10 @@
+taskKey="en.codegym.task.pro.task08.task0809"\n\nCounter
+
+In the Solution class, implement the printNumbers() method, which prints numbers from 1 to 10 inclusive with a 1.3-millisecond pause between each number.
+The Thread class&#39;s sleep(long, int) method will help you do this.
+
+
+Требования:
+1.	Implement the printNumbers() method in accordance with the task conditions.
+
+

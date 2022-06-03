@@ -1,0 +1,10 @@
+taskKey="en.codegym.task.pro.task08.task0810"\n\nTimer
+
+In the Solution class, implement the setTimer(int, int, int, int, int) method,
+which sleeps for a specified time using the corresponding methods of the java.util.concurrent.TimeUnit class.
+
+
+Требования:
+1.	The setTimer(int, int, int, int, int) method must be implemented in accordance with the task conditions.
+
+

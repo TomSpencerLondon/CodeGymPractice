@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task08.task0808"\n\nCountdown
+
+The countDown() method of the Solution class has a countdown.
+You need to ensure that there is a 1-second pause between each instance of console output.
+The Thread class&#39;s sleep(long) method will help you do this.
+
+
+Требования:
+1.	Implement the countDown() method in accordance with the task conditions.
+
+

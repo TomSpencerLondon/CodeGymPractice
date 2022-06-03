@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task07.task0713"\n\nSimple inheritance
+
+Build the correct class inheritance hierarchy.
+A woman should inherit the properties of a human, and a human should inherit the properties of a terran.
+
+
+Требования:
+1.	The Woman class must inherit the Human class.
+2.	The Human class must inherit the Terran class.
+
+

@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task08.task0802"\n\nUtility class: part 2
+
+Use methods of the Math class to correct the methods of the Solution class:
+
+sqrt(double) should return the square root of the input parameter.
+cbrt(double) should return the cube root of the input parameter.
+pow(int, int) should return the value of the first parameter raised to the power of the second parameter.
+
+
+Требования:
+1.	Implement the sqrt(double) method in accordance with the task conditions.
+2.	Implement the cbrt(double) method in accordance with the task conditions.
+3.	Implement the pow(int, int) method in accordance with the task conditions.
+
+

@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task07.task0714"\n\nInheriting variables
+
+Organize the class inheritance correctly:
+- A car should inherit the properties of a vehicle;
+- An electric car should inherit the properties of a car.
+Remove duplicate variables.
+
+
+Требования:
+1.	The Car class must inherit the Vehicle class.
+2.	The ElectricCar class must inherit the Car class.
+3.	There should be no duplicate variables.
+
+

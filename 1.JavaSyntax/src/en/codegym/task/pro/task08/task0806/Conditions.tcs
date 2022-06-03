@@ -1,0 +1,10 @@
+taskKey="en.codegym.task.pro.task08.task0806"\n\nImports: Part 1
+
+In the Solution class, replace all short class names in the code with fully qualified names.
+
+
+Требования:
+1.	The main method should contain only fully qualified class names: don&#39;t change the rest of the code.
+2.	There should be no import statements in the Solution class.
+
+
