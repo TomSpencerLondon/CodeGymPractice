@@ -5,10 +5,10 @@ Character literals
 */
 
 public class Solution {
-    public static char first = 'u004A';
-    public static char second = a;
-    public static char third = "\u0076";
-    public static char fourth = {a};
+    public static char first = '\u004A';
+    public static char second = 'a';
+    public static char third = '\u0076';
+    public static char fourth = 'a';
 
     public static void main(String[] args) {
         System.out.print(first);
