@@ -1,0 +1,10 @@
+taskKey="en.codegym.task.pro.task08.task0816"\n\nPriorities
+
+Correct the main() method in order to display the number 12 on the console.
+
+
+Требования:
+1.	In the main() method, place one pair of parentheses so that the number 12 is displayed on the console. Don&#39;t change the rest of the code.
+2.	The main() method should display the number 12.
+
+

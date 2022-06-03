@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task08.task0813"\n\nPower of two
+
+Implement the getPowerOfTwo(int power) method, which returns the value of 2 raised to the power of the power parameter.
+You need to change the implementation of the getPowerOfTwo(int) method and use an appropriate bitwise shift.
+
+
+Требования:
+1.	The getPowerOfTwo(int) method should return a power of two.
+2.	The bitwise left shift operator should be used in the getPowerOfTwo(int) method.
+
+

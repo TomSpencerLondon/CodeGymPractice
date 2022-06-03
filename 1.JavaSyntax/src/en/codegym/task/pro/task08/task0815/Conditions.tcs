@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task08.task0815"\n\nLogical operators
+
+Correct the taskForCondition() method in order to display the number 30 on the console.
+Only change the logical operators: &amp;&amp; to &amp; and || to |.
+
+
+Требования:
+1.	The taskForCondition() method should display the number 30.
+2.	In the taskForCondition() method, don&#39;t change anything except logical operators.
+
+

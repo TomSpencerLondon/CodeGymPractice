@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task08.task0817"\n\nIncrements
+
+Correct the main() method in order to display the number 20 on the console.
+You can only change postfix increment operators to prefix increment operators and vice versa,
+and postfix decrement operators to prefix decrement operators and vice versa.
+
+
+Требования:
+1.	Correct the main() method in accordance with the task conditions.
+
+
