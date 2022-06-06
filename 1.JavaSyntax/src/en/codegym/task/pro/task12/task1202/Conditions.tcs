@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task12.task1202"\n\nUnboxing
+
+The Solution class should have 8 objects of the primitive wrapper types, with that follow the template typeValueBox.
+For each of these wrapper objects, you need to create variables of the corresponding primitive types and assign them names that follow the template typeValue.
+When creating a variable, use the wrapper object&#39;s typeValueBox.primitiveValue() method.
+
+Example of a variable of a primitive type: int intValue = ...;
+
+
+Требования:
+1.	The Solution class should contain 8 objects of the primitive wrapper classes, with names that follow the template &quot;typeValueBox&quot;.
+2.	The Solution class should contain 8 variables of the primitive data types, with names that follow the template &quot;typeValue&quot;.
+3.	When creating variables of primitive types, you need to use the existing wrapper objects and the typeValueBox.primitiveValue() method.
+
+

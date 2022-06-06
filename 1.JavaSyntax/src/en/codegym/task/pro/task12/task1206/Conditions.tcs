@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task12.task1206"\n\nAnalyzing strings
+
+Implement the countDigits(String), countLetters(String), and countSpaces(String) methods,
+which should return the number of digits, letters, and spaces, respectively, in a string.
+The main() method is not involved in testing.
+
+
+Требования:
+1.	The countDigits(String) method should return the number of digits in the passed string.
+2.	The countLetters(String) method should return the number of letters in the passed string.
+3.	The countSpaces(String) method should return the number of spaces in the passed string.
+
+

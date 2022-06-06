@@ -1,0 +1,16 @@
+taskKey="en.codegym.task.pro.task12.task1203"\n\nComparing numbers
+
+The Solution class has three fields with identical values: In the main method,
+they are compared and the results of the comparisons are displayed on the console.
+Add the minimum number of calls to the equals() method in the main method, so that the output is:
+true
+true
+true
+
+
+Требования:
+1.	Do not change the fields of the Solution class.
+2.	The output must match the task conditions.
+3.	Add the minimum number of calls to the equals() method.
+
+

@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task12.task1207"\n\nThe lesser number
+
+This program compares two numbers. If the first number is less than the second number,
+then the following message is displayed on the console: The first number is less than the second number.
+If the first number is greater than or equal to the second number,
+then the following message is displayed on the console: The first number is greater than or equal to the second number.
+But at the moment the program terminates with an error. Find out what is wrong and fix the error.
+The main() method is not involved in testing.
+
+
+Требования:
+1.	If the first number is greater than the second, then the isLess(int, int) method should return false.
+2.	If the first number is less than the second, then the isLess(int, int) method should return true.
+
+

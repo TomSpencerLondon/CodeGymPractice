@@ -1,0 +1,29 @@
+taskKey="en.codegym.task.pro.task12.task1205"\n\nA method that divides
+
+Implement the divide(double a, double b) method so that the console shows the result of dividing the number a by the number b.
+The following value should be displayed:
+1. Double.POSITIVE_INFINITY, if any of the following is true:
+- a is positive and b is equal to 0;
+- a is equal to Double.POSITIVE_INFINITY and b &gt;= 0 and b is not equal to Double.POSITIVE_INFINITY;
+- a is equal to Double.NEGATIVE_INFINITY and b &lt; 0 and b is not equal to Double.NEGATIVE_INFINITY;
+2. Double.NEGATIVE_INFINITY, if any of the following is true:
+- a is negative and b is equal to 0;
+- a is equal to Double.NEGATIVE_INFINITY and b &gt;= 0 and b is not equal to Double.POSITIVE_INFINITY;
+- a is equal to Double.POSITIVE_INFINITY and b &lt; 0 and b is not equal to Double.NEGATIVE_INFINITY;
+3. Double.NaN, if any of the following is true:
+- a is equal to 0 and b is equal to 0;
+- at least one of the operands is Double.NaN;
+- a is equal to Double.POSITIVE_INFINITY and b is equal to Double.POSITIVE_INFINITY;
+- a is equal to Double.POSITIVE_INFINITY and b is equal to Double.NEGATIVE_INFINITY;
+- a is equal to Double.NEGATIVE_INFINITY and b is equal to Double.POSITIVE_INFINITY;
+- a is equal to Double.NEGATIVE_INFINITY and b is equal to Double.NEGATIVE_INFINITY;
+4. In all other cases, display the result of dividing a by b.
+
+
+Требования:
+1.	The divide(double a, double b) method should display the result of dividing the number a by the number b.
+2.	The divide(double a, double b) method should display &quot;Infinity&quot; in accordance with the item 1 of the task conditions.
+3.	The divide(double a, double b) method should display &quot;-Infinity&quot; in accordance with item 2 of the task conditions.
+4.	The divide(double a, double b) method should display &quot;NaN&quot; in accordance with item 3 of the task conditions.
+
+

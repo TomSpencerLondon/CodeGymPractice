@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task12.task1204"\n\nPaying bills
+
+The Solution class has a balance field, which indicates the balance of funds in a bank account.
+Initialize it with the value of Integer.MAX_VALUE when it is declared.
+Implement the processPayment(String) method, which takes payment instructions and deducts funds from the account according to the instructions.
+The main() method is not involved in testing.
+
+
+Требования:
+1.	The balance field must be initialized to Integer.MAX_VALUE when it is declared.
+2.	The processPayment(String) method should decrease the balance field by the value of the passed argument.
+
+
