@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task10.task1013"\n\nArrange the floors correctly
+
+We have an algorithm for the hotel elevator: to rise from the third floor to the sixth, you need to get to the fourth floor,
+then to the fifth and, finally, to the sixth.
+But in our program, the floors are all mixed up! As a result, the Hotel class does not compile at present.
+Arrange the fields of the class in such a way that it compiles and the elevator runs correctly.
+
+
+Требования:
+1.	Do not delete, modify, or add fields to the Hotel class.
+2.	The fields of the Hotel class must be in the correct order.
+
+

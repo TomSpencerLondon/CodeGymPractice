@@ -1,0 +1,16 @@
+taskKey="en.codegym.task.pro.task10.task1008"\n\nSalary
+
+We have a Programmer class, which has a very important salary field.
+Our task is as follows: we need to add the ability to get and change the value of this field using a getter and a setter.
+But there is a nuance here: the salary can only be increased.
+Accordingly, you need make the setter perform a check: if the value of the parameter is greater than the current value, then change the salary field.
+Otherwise, ignore the parameter.
+
+
+Требования:
+1.	The Programmer class must have a private int salary field that is not static.
+2.	The Programmer class must have a public getter for the salary field.
+3.	The Programmer class must have a public setter for the salary field.
+4.	The setter should only change the value of the salary field if the input parameter is greater than the current value.
+
+

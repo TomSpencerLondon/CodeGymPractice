@@ -1,0 +1,24 @@
+
+p
+java:S1104"UMake partyFace a static final constant or non-public and provide accessors if needed.(†ı·úÿÿÿÿ
+h
+java:S1104	"SMake balloon a static final constant or non-public and provide accessors if needed.(¹¾È
+e
+java:S1104
+"PMake gift a static final constant or non-public and provide accessors if needed.(ï€â:
+m
+java:S1104"WMake partyPopper a static final constant or non-public and provide accessors if needed.(†ì«å
+e
+java:S1104"PMake cake a static final constant or non-public and provide accessors if needed.(îèŸw
+J
+java:S1444"/Make this "public static partyFace" field final(†ı·úÿÿÿÿ
+B
+java:S1444	"-Make this "public static balloon" field final(¹¾È
+?
+java:S1444
+"*Make this "public static gift" field final(ï€â:
+G
+java:S1444"1Make this "public static partyPopper" field final(†ì«å
+?
+java:S1444"*Make this "public static cake" field final(îèŸw
+N	java:S106"9Replace this use of System.out or System.err by a logger.(óØÕª

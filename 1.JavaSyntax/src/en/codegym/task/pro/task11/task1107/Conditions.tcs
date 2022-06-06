@@ -1,0 +1,17 @@
+taskKey="en.codegym.task.pro.task11.task1107"\n\nThe engine — the heart of the car
+
+An engine is a complex mechanism. No ordinary variable is adequate to describe it.
+In the Car class, create an inner Engine class. In the Engine class, create a boolean isRunning field that is true if the engine is running,
+and false otherwise. Also, add start and stop methods to this class.
+They will start/stop the engine (assigning the appropriate value to the isRunning field).
+To use the engine, create an Engine engine field in the Car class.
+
+
+Требования:
+1.	You need to create an inner Engine class in the Car class.
+2.	The Engine class must have a private boolean isRunning field.
+3.	The Engine class must have a public void start method that sets the isRunning field to true.
+4.	The Engine class must have a public void stop method that sets the isRunning field to false.
+5.	There must be an Engine engine field in the Car class.
+
+

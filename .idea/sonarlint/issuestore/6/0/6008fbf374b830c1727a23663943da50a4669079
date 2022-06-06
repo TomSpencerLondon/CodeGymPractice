@@ -1,0 +1,12 @@
+
+8
+java:S2386	"Make this member "protected".(ÆÄå²ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰À…¥
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑùÊÊþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¼ã–
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ø—–êýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Öâ‡¿úÿÿÿÿ
+l
+java:S1104	"QMake array a static final constant or non-public and provide accessors if needed.(ÆÄå²ÿÿÿÿÿ
+F
+java:S1444	"+Make this "public static array" field final(ÆÄå²ÿÿÿÿÿ

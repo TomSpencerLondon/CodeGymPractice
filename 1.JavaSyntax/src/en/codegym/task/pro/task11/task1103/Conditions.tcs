@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task11.task1103"\n\nPresentation of robots
+
+The main method creates 5 robots and displays information about them.
+Remove as many static modifiers as possible without changing the functionality of the program.
+Don&#39;t change anything in the main method.
+
+
+Требования:
+1.	The static modifier should be placed correctly.
+
+

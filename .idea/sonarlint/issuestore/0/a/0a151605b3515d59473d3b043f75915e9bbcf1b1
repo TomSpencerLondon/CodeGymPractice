@@ -1,0 +1,17 @@
+
+T
+java:S1854">Remove this useless assignment to local variable "bigInteger".(ž²÷…
+]
+java:S1854
+"BRemove this useless assignment to local variable "bufferedReader".(çÜÀÍÿÿÿÿÿ
+X
+java:S1854	"=Remove this useless assignment to local variable "arrayList".(É¿÷Žûÿÿÿÿ
+I
+java:S1481	".Remove this unused "arrayList" local variable.(É¿÷Žûÿÿÿÿ
+N
+java:S1481
+"3Remove this unused "bufferedReader" local variable.(çÜÀÍÿÿÿÿÿ
+:
+java:S2129"$Remove this "BigInteger" constructor(ž²÷…
+E
+java:S1481"/Remove this unused "bigInteger" local variable.(ž²÷…

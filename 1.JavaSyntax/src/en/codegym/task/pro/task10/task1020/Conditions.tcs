@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task10.task1020"\n\nBuilding a computer
+
+Let&#39;s try to build a computer. We have classes for the following entities: motherboard, monitor, keyboard, and mouse.
+In the computer class constructor, create objects of the classes that make up the computer.
+
+
+Требования:
+1.	The public Computer, Keyboard, Monitor, Mouse, and Motherboard classes must be in separate files.
+2.	In the Computer class constructor, you need to create 4 objects, one instance of each different &quot;computer component&quot;.
+
+

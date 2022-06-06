@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task10.task1015"\n\nA hedgehog and an apple
+
+Our task is to feed a hedgehog. In the main method, create one Apple object and one Hedgehog object,
+call the hedgehog&#39;s eat method, passing in the appropriate argument (the apple).
+
+
+Требования:
+1.	The Hedgehog class must have a nested public static Apple class.
+2.	There must be a non-static public void eat(Apple) method in the Hedgehog class.
+3.	In the main method, one Apple object must be created.
+4.	In the main method, one Hedgehog object must be created.
+5.	In the main method, you need to call the eat method on the Hedgehog object and pass in the created Apple object.
+
+

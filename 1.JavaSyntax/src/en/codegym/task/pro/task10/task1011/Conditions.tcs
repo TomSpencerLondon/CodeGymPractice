@@ -1,0 +1,19 @@
+taskKey="en.codegym.task.pro.task10.task1011"\n\nCreate our own hashCode
+
+Write your own implementation of hashCode that uses the model and year variables.
+If these fields are the same for two objects, then the same hashCode should be returned.
+If the hashCode method is correctly implemented, the output should look like this:
+true
+true
+true
+true
+false
+false
+
+
+Требования:
+1.	Do not modify the main method.
+2.	The hashCode(int) method must be overridden in the Car class.
+3.	Implement the hashCode method so that the output of the program matches the task conditions.
+
+

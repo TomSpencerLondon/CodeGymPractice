@@ -1,0 +1,93 @@
+
+[
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(åÊÒ
+`
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(½ú·¸ıÿÿÿÿ
+W
+java:S1854"<Remove this useless assignment to local variable "scanner2".(½ú·¸ıÿÿÿÿ
+R
+java:S1854"<Remove this useless assignment to local variable "scanner1".(åÊÒ
+P
+java:S1854":Remove this useless assignment to local variable "array5".(‚ãø€
+P
+java:S1854":Remove this useless assignment to local variable "array4".(Ñâ¤
+P
+java:S1854":Remove this useless assignment to local variable "array3".(ÙŞÓã
+U
+java:S1854":Remove this useless assignment to local variable "array2".(ğÜÏéøÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "array1".(€”‚×ùÿÿÿÿ
+W
+java:S1854"<Remove this useless assignment to local variable "string10".(‚Ä¾­ùÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "string9".(­öÁüÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "string8".(€šÑøÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "string7".(ƒÆæ¦şÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "string6".(•®Ù°
+V
+java:S1854";Remove this useless assignment to local variable "string5".(ƒôã«ıÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "string4".(®ˆ¼çÿÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "string3".(êî¼ô
+Q
+java:S1854";Remove this useless assignment to local variable "string2".(Ï—öŠ
+V
+java:S1854";Remove this useless assignment to local variable "string1".(³™Å‡üÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(³™Å‡üÿÿÿÿ
+G
+java:S1481",Remove this unused "string1" local variable.(³™Å‡üÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(Ï—öŠ
+B
+java:S1481",Remove this unused "string2" local variable.(Ï—öŠ
+6
+java:S2129" Remove this "String" constructor(êî¼ô
+B
+java:S1481",Remove this unused "string3" local variable.(êî¼ô
+;
+java:S2129" Remove this "String" constructor(®ˆ¼çÿÿÿÿÿ
+G
+java:S1481",Remove this unused "string4" local variable.(®ˆ¼çÿÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(ƒôã«ıÿÿÿÿ
+G
+java:S1481",Remove this unused "string5" local variable.(ƒôã«ıÿÿÿÿ
+6
+java:S2129" Remove this "String" constructor(•®Ù°
+B
+java:S1481",Remove this unused "string6" local variable.(•®Ù°
+;
+java:S2129" Remove this "String" constructor(ƒÆæ¦şÿÿÿÿ
+G
+java:S1481",Remove this unused "string7" local variable.(ƒÆæ¦şÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(€šÑøÿÿÿÿ
+G
+java:S1481",Remove this unused "string8" local variable.(€šÑøÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(­öÁüÿÿÿÿ
+G
+java:S1481",Remove this unused "string9" local variable.(­öÁüÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(‚Ä¾­ùÿÿÿÿ
+H
+java:S1481"-Remove this unused "string10" local variable.(‚Ä¾­ùÿÿÿÿ
+F
+java:S1481"+Remove this unused "array1" local variable.(€”‚×ùÿÿÿÿ
+F
+java:S1481"+Remove this unused "array2" local variable.(ğÜÏéøÿÿÿÿ
+A
+java:S1481"+Remove this unused "array3" local variable.(ÙŞÓã
+A
+java:S1481"+Remove this unused "array4" local variable.(Ñâ¤
+A
+java:S1481"+Remove this unused "array5" local variable.(‚ãø€
+C
+java:S1481"-Remove this unused "scanner1" local variable.(åÊÒ
+H
+java:S1481"-Remove this unused "scanner2" local variable.(½ú·¸ıÿÿÿÿ

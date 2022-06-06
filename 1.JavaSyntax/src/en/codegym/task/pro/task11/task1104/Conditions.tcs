@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task11.task1104"\n\nString converter
+
+In the main method, convert the String string to a double using the static parseDouble method of the Double class.
+Then round the resulting value using the static round method of the Math class.
+Display the result on the screen.
+
+
+Требования:
+1.	The main method should call the parseDouble method of the Double class.
+2.	The main method should call the round method of the Math class.
+3.	The console should display the number 13.
+
+

@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task11.task1106"\n\nIdentical cars
+
+In the distant, distant past, all cars had the same name.
+But then one day the CEO of a car manufacturing plant got tired of the monotony and issued an order: give different names to the car models.
+As you&#39;ve already guessed, your task is to help the chief engineer fix the car production program so that each car object can be assigned a unique name.
+
+
+Требования:
+1.	The modelName field of the Car class must be non-static.
+2.	The getter and setter for the modelName field needs to be fixed.
+
+

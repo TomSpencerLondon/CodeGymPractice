@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task10.task1018"\n\nGetters and setters in action
+
+The Coordinate class has 2 getters and 2 setters, but the setters don&#39;t assign values to the variables.
+Figure out why this is happening and fix it. The main method is not checked.
+
+
+Требования:
+1.	The Coordinate class must have two private non-static int x and y fields.
+2.	The Coordinate class must have a getX getter for the x field.
+3.	The Coordinate class must have a getY getter for the y field.
+4.	The Coordinate class must have a setX(int) setter for the x field.
+5.	The Coordinate class must have a setY(int) setter for the y field.
+6.	The setters must initialize the corresponding fields.
+
+

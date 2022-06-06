@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task10.task1010"\n\nTwo iPhones
+
+The main creates two iPhones with identical properties.
+They are compared and the result is displayed on the console. Figure out why the result is currently negative and make it so the result is positive.
+To do this, you need to override the equals(IPhone) method and account for all the phone properties.
+The values of fields must be the same if two objects are equal. The main method is not checked.
+
+
+Требования:
+1.	The IPhone class must override the public boolean equals(Object) method.
+2.	The equals method must return true for two equal IPhone objects and false for different ones.
+3.	The equals method must return false if null is passed to it.
+
+

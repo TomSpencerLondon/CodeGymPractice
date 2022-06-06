@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task10.task1005"\n\nSerial entrepreneur
+
+A building was constructed with the expectation that it would be used as a restaurant,
+but the owners later decided to remodel the space for use as a barbershop.
+We need to ensure that the building is a versatile space whose purpose can be changed without constructing a new building.
+To do this, create an initialize method that assigns a value to the type field (which determines the type of building), and remove the constructor.
+
+
+Требования:
+1.	The Building class must have a private String field called type.
+2.	There should be no constructors declared in the Building class.
+3.	The Building class must have a public non-static void initialize method with a String parameter.
+4.	The type field must be initialized in the initialize(String) method.
+
+

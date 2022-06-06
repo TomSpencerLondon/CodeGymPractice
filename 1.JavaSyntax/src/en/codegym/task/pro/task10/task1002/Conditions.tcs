@@ -1,0 +1,25 @@
+taskKey="en.codegym.task.pro.task10.task1002"\n\nLet's build a new residential complex: CodeRush Towers
+
+Let&#39;s build a residential complex comprised of three skyscrapers. We&#39;ll do this using three different methods for displaying information:
+1. Announces the completion of construction.
+2. Announces the completion of construction and indicates the number of floors.
+3. Announces the completion of construction and indicates the developer.
+Example output:
+The skyscraper was built.
+The skyscraper was built. Number of floors: 50
+The skyscraper was built. Developer: CodeGymDevelopment
+
+To complete this task, you need to declare three different constructors and display text in them.
+The main method is not tested.
+
+
+Требования:
+1.	The Skyscraper class should have three public constructors.
+2.	The Skyscraper class should have a no-argument constructor.
+3.	The Skyscraper class should have a constructor with an int parameter.
+4.	The Skyscraper class should have a constructor with a String parameter.
+5.	The output of the no-argument constructor should match the example in the task conditions.
+6.	The output of the constructor with the int parameter should match the example in the task conditions.
+7.	The output of the constructor with the String parameter should match the example in the task conditions.
+
+

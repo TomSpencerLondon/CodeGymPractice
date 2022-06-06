@@ -1,0 +1,20 @@
+taskKey="en.codegym.task.pro.task11.task1101"\n\nThe Solar System is our home
+
+This program displays basic facts about the solar system.
+Rewrite the code so that all the variables of the SolarSystem class are used in the output, but the output of the program does not change.
+
+Expected output:
+Humanity lives in the Solar System.
+It is approximately 4568200000 years old.
+The Solar System has 8 known planets.
+Like most planetary systems, it has 1 star.
+The star&#39;s name is the Sun.
+The distance to the center of the galaxy is 27170 light years.
+Each inhabitant of the Solar System should know this information!
+
+
+Требования:
+1.	The program should display the text specified in the example.
+2.	When displaying text, you should use all the variables of the SolarSystem class.
+
+

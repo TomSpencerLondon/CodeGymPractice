@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task10.task1004"\n\nNeed for speed
+
+Imagine yourself as a car manufacturer and find a solution that get the factory working again.
+To do this, you need to add the initialization of fields in the constructors with the corresponding parameters.
+If a parameter is absent, then you need to initialize the field with the default value.
+For the year field, this is the current year (4321), and for the color field, it is Orange.
+
+
+Требования:
+1.	The CarConcern class must have four private final fields.
+2.	The CarConcern class must have a public constructor that has three parameters and initializes the corresponding fields.
+3.	The CarConcern class must have a public constructor that has two parameters and initializes the corresponding fields.
+4.	The CarConcern class must have a public constructor that has one parameter and initializes the corresponding fields.
+
+

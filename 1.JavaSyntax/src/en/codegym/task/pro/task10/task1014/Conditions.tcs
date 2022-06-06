@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task10.task1014"\n\nBuy 10 loaves of bread
+
+You&#39;ve been sent to the grocery store and told that you need to buy one loaf of bread, or if fresh eggs are available, then get ten loaves.
+Figure out why the makePurchases method always prints &quot;10 loaves of bread purchased&quot; regardless of the arguments passed to the method.
+Then fix the method.
+The main method is not checked.
+
+
+Требования:
+1.	Do not modify the hasEggs field of the Market class.
+2.	The Market class must have a public static void makePurchases(boolean) method.
+3.	If the makePurchases(boolean) method is called with false as the argument, then it should output the following to the console: &quot;1 loaf of bread purchased&quot;.
+4.	If the makePurchases(boolean) method is called with true as the argument, then it should output the following to the console: &quot;10 loaves of bread purchased&quot;.
+
+

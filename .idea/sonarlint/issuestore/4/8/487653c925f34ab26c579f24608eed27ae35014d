@@ -1,0 +1,16 @@
+
+D
+java:S1121".Extract the assignment out of this expression.(½¤³
+X
+java:S1854"BRemove this useless assignment to local variable "firstCondition".(½¤³
+^
+java:S1854"CRemove this useless assignment to local variable "secondCondition".(×¥÷Àùÿÿÿÿ
+/
+java:S2178"Correct this "&" to "&&".(½¤³
+/
+java:S2178"Correct this "&" to "&&".(½¤³
+I
+java:S1481"3Remove this unused "firstCondition" local variable.(½¤³
+O
+java:S1481"4Remove this unused "secondCondition" local variable.(×¥÷Àùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ

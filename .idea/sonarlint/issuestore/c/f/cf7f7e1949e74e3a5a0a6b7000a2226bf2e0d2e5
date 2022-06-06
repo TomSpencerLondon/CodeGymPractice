@@ -1,0 +1,14 @@
+
+Q
+java:S4973"<Strings and Boxed types should be compared using "equals()".(”‚²l
+6
+java:S2129	" Remove this "String" constructor(“ÅÎ
+6
+java:S2129
+" Remove this "String" constructor(¢ƒÃ®
+5
+java:S2129" Remove this "String" constructor(ÉÓO
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼˜¿ö
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊË«¤
+|
+java:S1221"aEither override Object.equals(Object obj), or totally rename the method to prevent any confusion.(åš¸½ÿÿÿÿÿ

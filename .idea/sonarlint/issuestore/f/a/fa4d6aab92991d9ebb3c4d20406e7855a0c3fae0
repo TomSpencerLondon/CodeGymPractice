@@ -1,0 +1,6 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£â„8ÁØÃŞ‹0
+t
+java:S1104	"RMake result a static final constant or non-public and provide accessors if needed.(®„Şşÿÿÿÿÿ8ÂØÃŞ‹0
+N
+java:S1444	",Make this "public static result" field final(®„Şşÿÿÿÿÿ8ÃØÃŞ‹0

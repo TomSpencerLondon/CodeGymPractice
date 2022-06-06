@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task10.task1017"\n\nCreating the continents
+
+According to one classification, there are 6 continents on planet Earth. Create a class for each continent.
+Each class must have a field that stores the area of the corresponding continent.
+The area of the continent must be specified when it is created, and it must be immutable.
+You can use any numbers to specify the area of the continents.
+
+
+Требования:
+1.	In separate files, create public Africa, Antarctica, Australia, Eurasia, NorthAmerica, and SouthAmerica classes.
+2.	Each of the created classes must have a private final int field named area.
+3.	Each of the created classes must have a public constructor with an int parameter that is used to initialize the area field.
+4.	In the main method of the Earth class, create 6 different continents and pass area values to them.
+
+

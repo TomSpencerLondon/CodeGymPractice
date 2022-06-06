@@ -1,0 +1,18 @@
+taskKey="en.codegym.task.pro.task10.task1016"\n\nWeather forecast
+
+The City class has two fields &mdash; the name of the city and the current air temperature.
+The Solution class also has a showWeather method: it displays information about the weather of the city passed as an argument to the method.
+Implement the showWeather method, which should display information in the following format: Today&#39;s temperature in [city name] is [city temperature]
+In the main method, you need to call the showWeather method once with the required argument.
+
+Example output:
+Today&#39;s temperature in Dubai is 71
+
+
+Требования:
+1.	Don&#39;t change the City class.
+2.	The Solution class must have a showWeather method with a City parameter.
+3.	The showWeather method must use the getters of the City class.
+4.	The showWeather method should display text on the console in accordance with the task conditions.
+
+

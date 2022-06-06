@@ -1,0 +1,13 @@
+
+W
+java:S1854"ARemove this useless assignment to local variable "atomicBoolean".(‹žóÅ
+[
+java:S1854"ERemove this useless assignment to local variable "inputStreamReader".(§¡Ôˆ
+Y
+java:S1854">Remove this useless assignment to local variable "linkedList".(Ö—÷çøÿÿÿÿ
+J
+java:S1481"/Remove this unused "linkedList" local variable.(Ö—÷çøÿÿÿÿ
+L
+java:S1481"6Remove this unused "inputStreamReader" local variable.(§¡Ôˆ
+H
+java:S1481"2Remove this unused "atomicBoolean" local variable.(‹žóÅ

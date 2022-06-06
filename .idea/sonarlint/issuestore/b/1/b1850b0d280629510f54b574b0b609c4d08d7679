@@ -1,0 +1,54 @@
+
+l
+java:S1104"QMake char1 a static final constant or non-public and provide accessors if needed.(Å‚±øÿÿÿÿ
+l
+java:S1104	"QMake char2 a static final constant or non-public and provide accessors if needed.(ü­å‘ÿÿÿÿÿ
+l
+java:S1104
+"QMake char3 a static final constant or non-public and provide accessors if needed.(ñ¥êÔşÿÿÿÿ
+g
+java:S1104"QMake char4 a static final constant or non-public and provide accessors if needed.(»¨Ã­
+g
+java:S1104"QMake char5 a static final constant or non-public and provide accessors if needed.(ùãªè
+l
+java:S1104"QMake char6 a static final constant or non-public and provide accessors if needed.(†¡‡öûÿÿÿÿ
+l
+java:S1104"QMake char7 a static final constant or non-public and provide accessors if needed.(Û†‹ÿÿÿÿÿ
+l
+java:S1104"QMake char8 a static final constant or non-public and provide accessors if needed.(µó’ûÿÿÿÿ
+g
+java:S1104"QMake char9 a static final constant or non-public and provide accessors if needed.(Ñİ±å
+h
+java:S1104"RMake char10 a static final constant or non-public and provide accessors if needed.(æÉâú
+F
+java:S1444"+Make this "public static char1" field final(Å‚±øÿÿÿÿ
+F
+java:S1444	"+Make this "public static char2" field final(ü­å‘ÿÿÿÿÿ
+F
+java:S1444
+"+Make this "public static char3" field final(ñ¥êÔşÿÿÿÿ
+A
+java:S1444"+Make this "public static char4" field final(»¨Ã­
+A
+java:S1444"+Make this "public static char5" field final(ùãªè
+F
+java:S1444"+Make this "public static char6" field final(†¡‡öûÿÿÿÿ
+F
+java:S1444"+Make this "public static char7" field final(Û†‹ÿÿÿÿÿ
+F
+java:S1444"+Make this "public static char8" field final(µó’ûÿÿÿÿ
+A
+java:S1444"+Make this "public static char9" field final(Ñİ±å
+B
+java:S1444",Make this "public static char10" field final(æÉâú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤È“È
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±Ë÷øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(†ûøø
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÀëà
+M	java:S106"9Replace this use of System.out or System.err by a logger.(«úÏ4
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áÜ»ùúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëÃœõùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë–Í×ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥ËĞÁ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·¢¾˜
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

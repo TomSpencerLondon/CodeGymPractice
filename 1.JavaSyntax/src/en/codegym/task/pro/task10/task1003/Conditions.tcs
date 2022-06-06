@@ -1,0 +1,17 @@
+taskKey="en.codegym.task.pro.task10.task1003"\n\nLet's build a new business complex: CodeGym Business Center
+
+Let&#39;s build a business center consisting of two buildings.
+One of the buildings we are just starting to build, while the second is in the planning stage, so little is known about it.
+You need to create two constructors: one with parameters, and one without. They both need to initialize the floorCount and developer fields.
+
+
+Требования:
+1.	The Skyscraper class should have two public constructors.
+2.	The Skyscraper class should have a no-argument constructor.
+3.	The Skyscraper class must have a constructor with int and String parameters.
+4.	The Skyscraper class must have a private, non-static int field called floorCount.
+5.	The Skyscraper class must have a private, non-static String field called developer.
+6.	In the no-argument constructor, the fields must be initialized with the values &quot;5&quot; and &quot;CodeGymDevelopment&quot;.
+7.	In the constructor with parameters, the fields must be initialized with the arguments passed to the constructor.
+
+

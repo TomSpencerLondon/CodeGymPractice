@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task10.task1009"\n\nComparing strings
+
+The main method declares String variables. The result of comparing them is displayed on the console: if the strings are equal,
+the method displays true, otherwise false. You need to uncomment one line to get the following output:
+true
+true
+
+The body of the main method cannot be changed: only uncomment one line.
+
+
+Требования:
+1.	In the main method, you only need to uncomment one line: don&#39;t add to or change the rest of the code.
+2.	The output must match the task conditions.
+
+

@@ -1,0 +1,14 @@
+
+t
+java:S1104	"RMake radius a static final constant or non-public and provide accessors if needed.(Ù€Îîşÿÿÿÿ8¹ä™Î0
+v
+java:S1104
+"TMake diameter a static final constant or non-public and provide accessors if needed.(üÓ¹‚úÿÿÿÿ8ºä™Î0
+N
+java:S1444	",Make this "public static radius" field final(Ù€Îîşÿÿÿÿ8ºä™Î0
+P
+java:S1444
+".Make this "public static diameter" field final(üÓ¹‚úÿÿÿÿ8ºä™Î0
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„úÙŞüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ã¡şÖ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºÌ

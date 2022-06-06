@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task10.task1001"\n\nCreating a skyscraper
+
+Let&#39;s try to construct our first skyscraper and announce completion of construction in the console.
+To do this, you need to call the Skyscraper class constructor in the main method and output &quot;The skyscraper was built.&quot; to the console in the body of the constructor.
+
+
+Требования:
+1.	The Skyscraper class should have a public no-argument constructor.
+2.	In the main method, you need to create one Skyscraper object.
+3.	The Skyscraper class constructor should display &quot;The skyscraper was built.&quot; on the console.
+
+

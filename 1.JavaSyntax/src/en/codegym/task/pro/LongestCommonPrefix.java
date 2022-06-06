@@ -3,7 +3,7 @@ package en.codegym.task.pro;
 public class LongestCommonPrefix {
 
   public static void main(String[] args) {
-    String[] inputs = {"String1", "Strapolation", "Strength", "St"};
+    String[] inputs = {"String1", "Strapolation", "Strength", "Str"};
 
     String result = getLongestCommonPrefix(inputs);
     System.out.println(result);
@@ -20,7 +20,7 @@ public class LongestCommonPrefix {
       boolean brokeRule = false;
       for (int j = 1; j < inputs.length; j++) {
         String word = inputs[j];
-        if (word.length() <= i || word.charAt(i) != letter) {
+        if (word == null || word.length() <= i || word.charAt(i) != letter) {
           brokeRule = true;
           break;
         }

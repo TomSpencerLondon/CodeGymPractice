@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task10.task1012"\n\nMemory defragmentation
+
+Let&#39;s explore how an array of strings is like computer memory. If we remove some elements, then we get &quot;holes&quot; in the array,
+that is, some elements are equal to null. The executeDefragmentation(String []) method,
+which takes an array of strings and performs &quot;defragmentation&quot;, that is, eliminates the &quot;holes&quot; (cells storing null)
+by moving all the string objects to the beginning of the array while maintaining the same order.
+In this task, you need to implement the executeDefragmentation(String[]) method.
+You can use the main() method to check the result of the executeDefragmentation(String[]) method.
+
+
+Требования:
+1.	The Memory class must have a public static void executeDefragmentation(String[]) method.
+2.	Implement the executeDefragmentation() method in accordance with the task conditions.
+
+

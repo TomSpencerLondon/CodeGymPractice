@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task11.task1108"\n\nCalculator utility
+
+Let&#39;s refactor the code and separate out the utility methods.
+To do this, create an static nested Calculator class and move the add, subtract, multiply and divide methods into it.
+Don&#39;t forget to correct the calls to these methods.
+
+
+Требования:
+1.	Create a static nested Calculator class in the Solution class.
+2.	The add, subtract, multiply and divide methods need to be moved to the Calculator class.
+3.	The add, subtract, multiply and divide methods of the Calculator class should be called in the main method.
+
+

@@ -1,0 +1,21 @@
+taskKey="en.codegym.task.pro.task10.task1006"\n\nWho here is a descendant?
+
+This task is to help you understand how the constructor of a base (parent) class is called.
+You have the ElectricCar, GasCar, and HybridCar classes, which inherit the Car class.
+In the constructors of the descendants of the Car class, you need to use super(&quot;car type&quot;) to pass the type of car
+to the base (parent) class constructor. To do this, in the main method of the Solution class, create 3 objects: HybridCar, GasCar, and ElectricCar.
+
+The output should be as follows (in any order):
+Hello. I&#39;m a ElectricCar
+Hello. I&#39;m a GasCar
+Hello. I&#39;m a HybridCar
+
+
+Требования:
+1.	The ElectricCar, GasCar, and HybridCar classes should inherit the Car class.
+2.	Don&#39;t modify the body of the Car class constructor.
+3.	Descendants of the Car class should call the base class constructor with the appropriate argument.
+4.	In the main method, 3 objects (an instance of the HybridCar, GasCar and ElectricCar classes) should be created.
+5.	The output must match the task conditions.
+
+

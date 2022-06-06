@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task10.task1019"\n\nCurrent year
+
+The Solution class has a currentYear field that must be initialized with the value of the current year (Calendar.getInstance().get(Calendar.YEAR))
+when creating a new Solution object.
+You need to find and fix an error so that the currentYear field is properly initialized when you create a Solution object.
+
+
+Требования:
+1.	The Solution class must have a private non-static int currentYear field.
+2.	The Solution class must have a getCurrentYear getter for the currentYear field.
+3.	When creating a Solution object, currentYear must be initialized to the current year (use the Calendar.getInstance().get(Calendar.YEAR) method).
+
+

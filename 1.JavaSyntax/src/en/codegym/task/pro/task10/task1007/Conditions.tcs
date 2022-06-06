@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task10.task1007"\n\nWith a roof or without? That is the question
+
+You pre-ordered a brand new Bugatti exactly six months ago. Now, in the middle of summer, you think it would be nice to drive a convertible.
+But you forgot which body style you selected when ordering the car.
+Your task is to add the ability to get the current car configuration and change it if necessary. Create getters and setters to do this.
+
+
+Требования:
+1.	The Bugatti class should have three fields: String color, int year, String body.
+2.	The Bugatti class must have a default constructor.
+3.	The Bugatti class must have a public getBody getter for the body field.
+4.	The Bugatti class must have a public setBody(String) setter for the body field.
+
+

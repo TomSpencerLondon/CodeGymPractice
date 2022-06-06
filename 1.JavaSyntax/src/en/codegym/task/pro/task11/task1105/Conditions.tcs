@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task11.task1105"\n\nWindow work
+
+The Window has a changeSize method, which should change the window size to the values passed to the method.
+But if you run the program, you&#39;ll see for yourself that this method does not work. You need to fix the bugs so that the method works.
+
+
+Требования:
+1.	Don&#39;t change the declaration and initialization of the fields of the Window class.
+2.	The changeSize method of the Window class should change the values of the fields using the passed arguments.
+3.	Don&#39;t change the declaration of the changeSize method or the names of its parameters.
+
+

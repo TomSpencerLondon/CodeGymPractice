@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task11.task1102"\n\nTechnical specification: Earth
+
+Make all the variables of the Planet class non-static.
+Then make the necessary changes to the main method.
+
+
+Требования:
+1.	All variables of the Planet class must be non-static.
+2.	All variables of the Planet object should be assigned values in the main method.
+
+

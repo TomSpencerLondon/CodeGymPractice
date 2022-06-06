@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task10.task1021"\n\nCar manufacturer
+
+Let&#39;s create a listing of the new models we make at our car factory.
+To do this, we need to create an initialize method that initializes a Car object&#39;s fields: model, year of manufacture, and color.
+
+
+Требования:
+1.	The Car class must have a private String model field.
+2.	The Car class must have a private int year field.
+3.	The Car class must have a private String color field.
+4.	Do not declare any constructors in the Car class.
+5.	The Car class must have a non-static public void initialize method with (String, int, String) parameters.
+6.	The model, year, and color fields must be initialized in the initialize(String model, int year, String color) method.
+
+

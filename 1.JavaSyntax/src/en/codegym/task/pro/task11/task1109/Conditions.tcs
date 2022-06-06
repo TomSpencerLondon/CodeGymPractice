@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task11.task1109"\n\nObjects of inner and nested classes
+
+The Outer class has an inner (Inner) and a nested (Nested) class. In the main method of the Solution class, create one object of each of them.
+
+
+Требования:
+1.	An object of the Inner class must be created in the main method of the Solution class.
+2.	An object of the Nested class must be created in the main method of the Solution class.
+3.	Don&#39;t change the Outer class.
+
+
