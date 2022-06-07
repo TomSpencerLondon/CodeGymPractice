@@ -1,0 +1,9 @@
+taskKey="en.codegym.task.pro.task12.task1214"\n\nFarewell, Pascal
+
+In the main method, find and remove the Pascal programming language from the programmingLanguages list.
+
+
+Требования:
+1.	The main method should remove Pascal from the programmingLanguages list.
+
+

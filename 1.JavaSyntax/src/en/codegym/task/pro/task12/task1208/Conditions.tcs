@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task12.task1208"\n\nComparing symbols
+
+The compare(Character, Character) method takes two characters and displays the result of comparing them.
+Implement the compare(Character, Character) method, which should compare the characters correctly.
+If the code of the first character is greater than that of the second, print &quot;greater than&quot;.
+If the code of the first character is less than that of the second, print &quot;less than&quot;.
+If the code of the first character is equal to that of the second, print &quot;equal&quot;.
+
+
+Требования:
+1.	Fix the compare(Character, Character) method by changing one condition.
+
+

@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task12.task1211"\n\nBubble sort
+
+Here is a program that uses the bubble sort algorithm to sorts the elements in a list.
+Rewrite the code so that instead of an ArrayList&lt;Integer&gt; numbers list it uses an int[] numbers array.
+The main() and print() methods are not involved in testing.
+
+
+Требования:
+1.	The numbers field should be an int[].
+2.	The numbers field should be initialized to ten numbers when it is declared.
+3.	The sort() method should sort the elements of the int[] numbers array in ascending order.
+
+

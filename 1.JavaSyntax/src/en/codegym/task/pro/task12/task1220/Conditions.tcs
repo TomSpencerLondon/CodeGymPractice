@@ -1,0 +1,20 @@
+taskKey="en.codegym.task.pro.task12.task1220"\n\nChasing after types
+
+The main method creates and fills a list of various objects and passes it to the checkElementType(ArrayList&lt;Object&gt;) method.
+Your task is to implement this method, which should determine the type of each element in the list, and also:
+
+For String objects, call the printString() method
+For Integer objects, call the printInteger() method
+For Integer[] objects, call the printIntegerArray() method
+For all other types of objects, call the printUnknown() method
+The main method is not checked.
+
+
+Требования:
+1.	Do not change the declaration and implementation of the printString(String) method.
+2.	Do not change the declaration and implementation of the printInteger(Integer) method.
+3.	Do not change the declaration and implementation of the printIntegerArray(Integer[]) method.
+4.	Do not change the declaration and implementation of the printUnknown(Object) method.
+5.	The checkElementType(ArrayList&lt;Object&gt;) method should work in accordance with the task conditions.
+
+

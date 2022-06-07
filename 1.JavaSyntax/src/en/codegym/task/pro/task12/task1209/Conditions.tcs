@@ -1,0 +1,18 @@
+taskKey="en.codegym.task.pro.task12.task1209"\n\nAccounting department
+
+The Solution class has a list of employees who are waiting to receive their salary (waitingEmployees),
+and a list of employees who already received it (alreadyGotSalaryEmployees).
+You need to implement the paySalary(String) method whose input parameter is the name of an employee who wants to receive his or her salary.
+The method should check whether the employee is in the waitingEmployees list. If the employee did not receive his or her salary, then pay it:
+1. If the paySalary(String) method&#39;s input parameter is null, then don&#39;t do anything.
+2. Add the employee&#39;s name to the alreadyGotSalaryEmployees list.
+3. In the waitingEmployees list, replace the employee&#39;s name with null.
+
+
+Требования:
+1.	The paySalary(String) method should add the employee&#39;s name to the alreadyGotSalaryEmployees list if it exists in the waitingEmployees list.
+2.	The paySalary(String) method should replace the employee&#39;s name with null if it exists in the waitingEmployees list.
+3.	The paySalary(String) method should not modify the waitingEmployees and alreadyGotSalaryEmployees lists if the passed name is not present in the waitingEmployees list.
+4.	If null is passed to the paySalary(String) method, the method should not add null to the waitingEmployees or alreadyGotSalaryEmployees list.
+
+

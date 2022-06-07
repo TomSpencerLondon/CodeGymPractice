@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task12.task1215"\n\nDisassembling a tower of champagne glasses
+
+The task is simple: disassemble a tower of champagne glasses using the removeGlassesReverse method.
+This method should take off each layer, starting from the top (from the end of the list). You need to implement this method.
+The main method will help with testing.
+Try running the program and look at the output.
+
+
+Требования:
+1.	The Solution class should have a public static removeGlassesReverse(ArrayList&lt;String&gt;) method.
+2.	The removeGlassesReverse method should remove all elements from the passed list, starting from the end (call the remove(int) method on the list).
+
+

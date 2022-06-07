@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task12.task1218"\n\nShine bright like a diamond
+
+Different types of objects are created in the main method. In some cases,
+you can omit the type of an object&#39;s elements and simply use the diamond operator (&lt;&gt;).
+Replace the object&#39;s element type with the diamond operator where possible, without changing the left side of the expressions.
+The order of the variables must not be changed.
+
+
+Требования:
+1.	Where possible, replace the element type with the diamond operator.
+2.	Do not change the left side of the expressions.
+
+

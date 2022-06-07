@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task12.task1213"\n\nSolar System
+
+In the year 3020, scientists learned how to grow new planets. One of these synthetic planets was pushed into orbit around the Sun.
+The planet is located between Earth and Mars.
+Implement the createNewPlanet(String) method, which should add the new planet to the planets list right after Earth.
+Take a look at how the order of the planets has changed.
+The main(), addPlanets() and print() methods are not involved in testing.
+
+
+Требования:
+1.	The createNewPlanet(String) method should add the new planet to the list of planets at the position after Earth.
+
+

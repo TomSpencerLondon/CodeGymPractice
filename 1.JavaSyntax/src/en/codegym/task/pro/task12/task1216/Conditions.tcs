@@ -1,0 +1,16 @@
+taskKey="en.codegym.task.pro.task12.task1216"\n\nOnward to the future
+
+The Solution class has a number field, a string field, and a main method with variables declared in it.
+You need to replace the variable declarations with var where possible. The order of the variables must not be changed.
+
+Example:
+Scanner console = new Scanner(System.in);
+Replace with:
+var console = new Scanner(System.in);
+
+
+Требования:
+1.	Replace the variables&#39; types with var wherever possible.
+2.	Do not change the right side of the expressions.
+
+

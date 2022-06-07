@@ -1,0 +1,17 @@
+taskKey="en.codegym.task.pro.task12.task1217"\n\nBack to the past
+
+The Solution class has an intArray field, a corresponding getter and setter, and a main method with variables declared in it.
+You need to replace the types of the var variables with specific types of objects (do not change the names and initialization of the objects).
+Also, fix the getter and setter for the intArray field.
+
+Example:
+var console = new Scanner(System.in);
+Replace with:
+Scanner console = new Scanner(System.in);
+
+
+Требования:
+1.	Replace the var variables&#39; types with a specific types of objects.
+2.	Fix the getter and setter for the intArray field.
+
+

@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task12.task1222"\n\nDisplaying different types on the console
+
+The Solution class has a printAnything(ArrayList) method, which should take a list and display its contents on the console.
+Currently, only a list of strings is accepted as input. Your task is to correct the method
+so that a list with any data type is accepted (you will need to remove the corresponding generic type to do this).
+The main method is not checked.
+
+
+Требования:
+1.	Correct the signature of the printAnything method so that it accepts a list of any data type.
+
+

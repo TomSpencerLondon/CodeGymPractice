@@ -1,0 +1,10 @@
+taskKey="en.codegym.task.pro.task12.task1219"\n\nDouble curly braces
+
+The main method creates an ArrayList&lt;String&gt; list, assigns it to the var strings variable, and populates it with five elements.
+Without changing the logic, you need to rewrite the code to use double curly braces.
+
+
+Требования:
+1.	The strings list should be filled with five elements enclosed in double curly braces.
+
+

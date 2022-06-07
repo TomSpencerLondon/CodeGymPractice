@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task12.task1210"\n\nFlipping data
+
+Here you have a working program whose init() method populates the int[] numbers array with numbers.
+Then the reverse() method rearranges the numbers, putting them into reverse order.
+Your task is to rewrite the code so that instead of an int[] numbers array it uses an ArrayList&lt;Integer&gt; numbers list.
+Do not change the names of methods and variables.
+The main() and print() methods are not involved in testing.
+
+
+Требования:
+1.	The numbers field should be an ArrayList&lt;Integer&gt;.
+2.	The init() method should populate the numbers list with numbers from 0 to 9.
+3.	The reverse() method should put the values of the numbers list into reverse order.
+
+
