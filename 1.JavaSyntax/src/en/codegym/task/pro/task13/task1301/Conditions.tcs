@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task13.task1301"\n\nProcessing a return
+
+The Solution class has a arrayToHashSet(String[]) method that should return a HashSet&lt;String&gt; containing the same elements as the passed array.
+The main method is not checked.
+
+
+Требования:
+1.	The Solution class must have a public static HashSet&lt;String&gt; arrayToHashSet(String[]) method.
+2.	The arrayToHashSet(String[]) method must be implemented in accordance with the task conditions.
+
+

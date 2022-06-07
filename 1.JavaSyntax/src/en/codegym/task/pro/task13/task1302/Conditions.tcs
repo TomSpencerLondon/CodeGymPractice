@@ -1,0 +1,20 @@
+taskKey="en.codegym.task.pro.task13.task1302"\n\nVerifying existence
+
+The Solution class has a checkWords(String) method that should check whether the passed word is present in the words set.
+If the word is present, then we display the following on the console:
+The word [passed word] is in the set
+If not:
+The word [passed word] is not in the set
+
+The main method is not checked.
+
+Example output:
+The word Java is in the se
+
+
+Требования:
+1.	The Solution class must have a public static HashSet&lt;String&gt; words field.
+2.	The Solution class must have a public static checkWords(String) method with a void return type.
+3.	The checkWords(String) method must work in accordance with the task conditions.
+
+

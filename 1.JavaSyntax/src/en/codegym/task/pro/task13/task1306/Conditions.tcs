@@ -1,0 +1,16 @@
+taskKey="en.codegym.task.pro.task13.task1306"\n\nStudying the methods of the Collections class. Part 1
+
+The Solution class declares the following methods: copy(ArrayList&lt;String&gt;, ArrayList&lt;String&gt;), addAll(ArrayList&lt;String&gt;, String ...),
+and replaceAll(ArrayList&lt;String&gt;, String, String). You need to rewrite them using only the appropriate methods of the Collections class.
+The String ... parameter means the same thing as String[], but you get pass the arguments in a comma-delimited list.
+
+
+Требования:
+1.	The Solution class must have a public static copy(ArrayList&lt;String&gt;, ArrayList&lt;String&gt;) method with a void return type.
+2.	The Solution class must have a public static addAll(ArrayList&lt;String&gt;, String ...) method with a void return type.
+3.	The Solution class must have a public static replaceAll(ArrayList&lt;String&gt;, String, String) method with a void return type.
+4.	The copy(ArrayList&lt;String&gt;, ArrayList&lt;String&gt;) method must be rewritten using the Collections class&#39;s copy method.
+5.	The addAll(ArrayList&lt;String&gt;, String ...) method must be rewritten using the Collections class&#39;s addAll method.
+6.	The replaceAll(ArrayList&lt;String&gt;, String, String) method must be rewritten using the Collections class&#39;s replaceAll method.
+
+

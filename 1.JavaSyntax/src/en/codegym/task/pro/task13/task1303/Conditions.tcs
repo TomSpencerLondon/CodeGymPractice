@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task13.task1303"\n\nDisplaying the elements of a set
+
+The Solution class has a print(HashSet&lt;String&gt;) method that should display all the elements using the iterator() method.
+The main method is not checked.
+
+
+Требования:
+1.	The Solution class must have a public static print(HashSet&lt;String&gt;) method with a void return type.
+2.	The print(HashSet&lt;String&gt;) method must work in accordance with the task conditions.
+
+

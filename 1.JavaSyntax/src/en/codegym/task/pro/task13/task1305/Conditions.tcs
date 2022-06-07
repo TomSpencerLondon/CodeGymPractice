@@ -1,0 +1,20 @@
+taskKey="en.codegym.task.pro.task13.task1305"\n\nFind and neutralize
+
+The Solution declares the following methods, which you need to implement:
+1. removeBugWithFor(ArrayList&lt;String&gt;) should use a for loop and a counter to remove strings from the list if they contain the word bug.
+2. removeBugWithWhile(ArrayList&lt;String&gt;) should use a while loop and the iterator() method to remove strings from the list if they contain the word bug.
+3. removeBugWithCopy(ArrayList&lt;String&gt;) should use a for-each loop and copy of the list to remove strings from the list if they contain the word bug.
+4. The word bug may appear with different combinations of uppercase and lowercase letters (BUg, BuG, etc.).
+
+The main method is implemented for you and is not checked.
+
+
+Требования:
+1.	The Solution class must have a public static removeBugWithFor(ArrayList&lt;String&gt;) method with a void return type.
+2.	The Solution class must have a public static removeBugWithWhile(ArrayList&lt;String&gt;) method with a void return type.
+3.	The Solution class must have a public static removeBugWithCopy(ArrayList&lt;String&gt;) method with a void return type.
+4.	The removeBugWithFor(ArrayList&lt;String&gt;) method must work in accordance with the task conditions.
+5.	The removeBugWithWhile(ArrayList&lt;String&gt;) method must work in accordance with the task conditions.
+6.	The removeBugWithCopy(ArrayList&lt;String&gt;) method must work in accordance with the task conditions.
+
+

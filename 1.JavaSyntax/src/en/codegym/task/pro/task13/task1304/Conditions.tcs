@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task13.task1304"\n\nConverting an iterator to a for-each loop
+
+The Solution class has the printHashSet(HashSet&lt;String&gt;) and printList(ArrayList&lt;String&gt;) methods,
+which display each element of the passed collections (a set and list, respectively) on a new line.
+Your task is to rewrite the methods so that they use a for-each loop.
+The main method is not checked.
+
+
+Требования:
+1.	The Solution class must have a public static printHashSet(HashSet&lt;String&gt;) method with a void return type.
+2.	The Solution class must have a public static printList(ArrayList&lt;String&gt;) method with a void return type.
+3.	The printHashSet(HashSet&lt;String&gt;) method should print all the elements using a for-each loop.
+4.	The printList(ArrayList&lt;String&gt;) method should print all the elements using a for-each loop.
+
+

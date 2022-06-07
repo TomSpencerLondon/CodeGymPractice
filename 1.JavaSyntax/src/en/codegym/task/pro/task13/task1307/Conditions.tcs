@@ -1,0 +1,18 @@
+taskKey="en.codegym.task.pro.task13.task1307"\n\nStudying the methods of the Collections class. Part 2
+
+The Solution class declares the following methods: reverse(ArrayList&lt;Integer&gt;), sort(ArrayList&lt;Integer&gt;),
+rotate(ArrayList&lt;Integer&gt;, int), and shuffle(ArrayList&lt;Integer&gt;).
+You need to figure out what the methods do and rewrite them using only the corresponding methods of the Collections class.
+
+
+Требования:
+1.	The Solution class must have a public static reverse(ArrayList&lt;Integer&gt;) method with a void return type.
+2.	The Solution class must have a public static sort(ArrayList&lt;Integer&gt;) method with a void return type.
+3.	The Solution class must have a public static rotate(ArrayList&lt;Integer&gt;, int) method with a void return type.
+4.	The Solution class must have a public static shuffle(ArrayList&lt;Integer&gt;) method with a void return type.
+5.	The reverse(ArrayList &lt;Integer&gt;) method needs to be rewritten using the Collections class&#39;s reverse method.
+6.	The sort(ArrayList&lt;Integer&gt;) method needs to be rewritten using the Collections class&#39;s sort method.
+7.	The rotate(ArrayList&lt;Integer&gt;, int) method needs to be rewritten using the Collections class&#39;s rotate method.
+8.	The shuffle(ArrayList&lt;Integer&gt;) method must be rewritten using the Collections class&#39;s shuffle method.
+
+
