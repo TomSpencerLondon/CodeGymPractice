@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task14.task1410"\n\nWrapping exceptions
+
+In the copyFile method, catch the exceptions thrown by the readFile and writeFile methods.
+Wrap the caught exceptions in a RuntimeException and rethrow them.
+
+
+Требования:
+1.	FileNotFoundExceptions and FileSystemExceptions must be caught in the copyFile method.
+2.	All caught exceptions must be wrapped in a RuntimeException and rethrown.
+3.	The copyFile method must not have any exceptions in a throws clause.
+
+

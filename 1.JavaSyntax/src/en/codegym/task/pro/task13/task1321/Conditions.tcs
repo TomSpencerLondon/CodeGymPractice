@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task13.task1321"\n\nFrom switch to if
+
+The Solution class has a getTranslationForDayOfWeek(String) method that returns the translation of the day of the week from English into Pig Latin.
+Your task is to rewrite the method using only an if statement.
+
+
+Требования:
+1.	The getTranslationForDayOfWeek(String) method should return the translation of the day of the week from English to Pig Latin.
+2.	Only an if-else statement should be used in the getTranslationForDayOfWeek(String) method.
+
+

@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task13.task1317"\n\nConverting an enum to a class
+
+It&#39;s time to reveal all our cards and show you how enum actually works. You need to make a class out of the Month enum,
+and add and implement the ordinal() and values() methods.
+
+
+Требования:
+1.	There must be a Month class in a separate file.
+2.	The Month class should have only one private constructor with one int parameter.
+3.	The Month class should have 12 Month constants.
+4.	The values() method of the Month class should return an array containing all the constants.
+5.	The ordinal() method of the Month class should return the ordinal number of the field (constant).
+
+

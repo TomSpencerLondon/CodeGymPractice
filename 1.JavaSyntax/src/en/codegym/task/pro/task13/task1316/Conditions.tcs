@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task13.task1316"\n\nLet's list the CodeGym quests
+
+The CodeGymQuest enum contains a list of quests. Your task is to get an array of all its fields in the main method (use the values() method)
+and print the ordinal number of each of them (use the ordinal() method) on a new line.
+
+
+Требования:
+1.	In the main method, get a list of all the constants of the CodeGymQuest enum using the values() method.
+2.	In the main method, print the ordinal number of each field on a new line using the ordinal() method.
+
+

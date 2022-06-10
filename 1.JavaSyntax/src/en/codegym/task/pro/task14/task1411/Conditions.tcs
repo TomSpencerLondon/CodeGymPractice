@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task14.task1411"\n\nUnpacking exceptions
+
+In the main method, catch RuntimeExceptions. Determine what kind of exception is stored in them.
+If it is a FileNotFoundException, display the following message on the console: &quot;Unable to read file.&quot;.
+If it is a FileSystemException, then display &quot;Unable to write to file.&quot;
+
+
+Требования:
+1.	The main method should catch RuntimeExceptions.
+2.	You need to output &quot;Unable to read file.&quot; if a FileNotFoundException is wrapped in a RuntimeException.
+3.	You need to output &quot;Unable to write to file.&quot; if a FileSystemException is wrapped in a RuntimeException.
+4.	Don&#39;t change the FileManager class.
+
+

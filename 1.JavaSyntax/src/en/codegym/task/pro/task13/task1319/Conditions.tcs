@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task13.task1319"\n\nMonths of the season
+
+Add 4 methods to the Month enum: getWinterMonths(), getSpringMonths(), getSummerMonths(), getAutumnMonths(),
+each of which returns an array containing three months.
+
+
+Требования:
+1.	The public static getWinterMonths() method must return an array with the winter months.
+2.	The public static getSpringMonths() method must return an array with the spring months.
+3.	The public static getSummerMonths() method must return an array with the summer months.
+4.	The public static getAutumnMonths() method must return an array with the autumn months.
+
+

@@ -1,0 +1,16 @@
+taskKey="en.codegym.task.pro.task13.task1311"\n\nStudent performance — 3
+
+The Solution class declares a HashMap&lt;String, Double&gt; grades field, whose key is the student&#39;s full name,
+and whose value is the student&#39;s average grade. Let&#39;s try to create a method that will display complete information about students.
+Use the entrySet method of the HashMap class.
+
+The output should be as follows: [full name] : [average grade]
+For a student named Alfred Tennyson whose average grade is 4.5, the output will be as follows:
+Alfred Tennyson : 4.5
+
+
+Требования:
+1.	The Solution class must have an initialized public static HashMap&lt;String, Double&gt; grades field.
+2.	The printStudentInfo method should display text on the console in accordance with the task conditions.
+
+

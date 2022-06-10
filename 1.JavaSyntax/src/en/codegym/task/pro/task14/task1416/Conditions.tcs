@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task14.task1416"\n\nLogging a stack trace
+
+In the main method, catch the exception and output its stack trace.
+
+
+Требования:
+1.	The main() method should call the dangerousMethod() method.
+2.	The dangerousMethod method should throw an Exception.
+3.	The main method should display the stack trace of the caught exception.
+
+

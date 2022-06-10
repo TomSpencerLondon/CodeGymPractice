@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task14.task1413"\n\nLong drink
+
+On startup, the program ends with an exception. But the text of the exception displayed on the console does not make the origin of the exception clear. In this task, you need to:
+wrap the code of the addIce, addVodka, addJuice and addOrange methods in try-catch blocks; in the catch blocks, call the printBugMethodName method and pass the stack trace to it.
+If you do everything right, then when you run the program the names of the methods where the exceptions occur will be displayed on the screen.
+
+
+Требования:
+1.	You need to wrap the code of the addIce, addVodka, addJuice and addOrange methods in try-catch blocks.
+2.	In the addIce, addVodka, addJuice and addOrange methods, you need to put a single statement in the catch blocks: a call to the printBugMethodName method. 
+3.	Each time you call the printBugMethodName method, you must pass the current stack trace to it.
+
+

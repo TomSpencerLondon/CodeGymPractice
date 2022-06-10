@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task13.task1315"\n\nFour seasons
+
+You need to create a set of values (an enum) for the seasons. To do this, create a Season enum in a separate file and declare 4 fields in it.
+In the Solution method, display each enum value on a new line.
+
+
+Требования:
+1.	Create a public Season enum in a separate file and add the following values: WINTER, SPRING, SUMMER, AUTUMN.
+2.	In the Solution class, display each season on a new line. Use the enum values directly, e.g. Season.WINTER.
+
+

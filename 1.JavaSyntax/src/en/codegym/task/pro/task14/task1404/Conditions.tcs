@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task14.task1404"\n\nTeaching assistant - 3
+
+The program reads a number from the console, finds the corresponding student in the list, and calls on him or her to answer.
+The parseInt and get methods can throw NumberFormatExceptions and ArrayIndexOutOfBoundsExceptions. Wrap them with one try block that has two catch blocks.
+The catch block for NumberFormatException should display &quot;You must enter an integer&quot;, and the catch block for ArrayIndexOutOfBoundsException should display &quot;A student with this number does not exist&quot;
+
+
+Требования:
+1.	The program should continue running when a NumberFormatException occurs.
+2.	The program should display &quot;You must enter an integer&quot; every time a NumberFormatException occurs.
+3.	The program should continue running when an ArrayIndexOutOfBoundsException occurs.
+4.	The program should display the following message: &quot;A student with this number does not exist&quot; every time an ArrayIndexOutOfBoundsException occurs.
+5.	The program should have one try block and two catch blocks.
+
+

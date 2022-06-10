@@ -1,0 +1,23 @@
+taskKey="en.codegym.task.pro.task14.task1407"\n\nJoy and sorrow sleep in the same bed.
+
+Run the program and see what happens.
+In the eat method, add a finally block so that the lion goes to bed even if he doesn&#39;t get anything to eat.
+Expected output when food != null:
+
+looking for food
+found meat
+ate everything
+went to bed
+
+Expected output when food == null:
+
+looking for food
+found nothing
+went to bed hungry
+
+
+Требования:
+1.	The eat method should have a finally block.
+2.	The output must match the task conditions.
+
+

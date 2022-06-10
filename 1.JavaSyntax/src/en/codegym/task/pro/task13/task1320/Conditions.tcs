@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task13.task1320"\n\nFrom if to switch
+
+The Solution class has a getMonthByIndex(int) method that returns the name of the month by its index, starting with 1.
+Your task is to rewrite the method using only a switch statement and the case and break keywords.
+
+
+Требования:
+1.	The getMonthByIndex(int) method should return the name of the month by its index.
+2.	The getMonthByIndex(int) method should only use a switch (multiple-choice) statement.
+
+

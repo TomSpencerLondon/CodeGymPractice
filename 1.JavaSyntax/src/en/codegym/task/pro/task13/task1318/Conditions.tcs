@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task13.task1318"\n\nNext month, please
+
+In the Solution class, implement the getNextMonth method, which should return the next month.
+If the last month of the year is passed, return the first. Use the values and ordinal methods.
+The main method is not checked.
+
+
+Требования:
+1.	Implement a public static Month getNextMonth(Month) metho that works in accordance with the task conditions.
+2.	The getNextMonth method should use the ordinal() and values() methods.
+
+

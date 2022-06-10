@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task14.task1402"\n\nTeaching assistant
+
+The program reads a number from the console, finds the corresponding student in the list, and calls on him or her to answer.
+But there is a problem: if the list doesn&#39;t contain a student with the desired number, then the program ends with an ArrayIndexOutOfBoundsException.
+Wrap one line in a try-catch block to keep the program running.
+In the catch block, display the message &quot;A student with this number does not exist&quot;.
+
+
+Требования:
+1.	One line should be wrapped in a try-catch block.
+2.	The program should continue to work if an invalid number is entered.
+3.	The program should display &quot;A student with this number does not exist&quot; every time you enter an invalid number.
+
+

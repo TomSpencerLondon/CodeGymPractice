@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task13.task1312"\n\nArrayList vs HashMap
+
+The Solution class has a getProgrammingLanguages method that returns a list of programming languages.
+You need to rewrite this method so that it return a HashMap&lt;Integer, String&gt;.
+For this collection, the key will be the index of the element in the ArrayList.
+
+
+Требования:
+1.	The Solution class should have a public static getProgrammingLanguages method that returns a HashMap&lt;Integer, String&gt;.
+2.	The getProgrammingLanguages() method should return a HashMap filled with the values in the list.
+
+

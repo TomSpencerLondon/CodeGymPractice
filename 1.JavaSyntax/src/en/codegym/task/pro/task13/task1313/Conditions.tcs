@@ -1,0 +1,27 @@
+taskKey="en.codegym.task.pro.task13.task1313"\n\nStringLinkedList
+
+It&#39;s time to get acquainted with doubly linked lists. By solving this task,
+you will understand how a doubly linked list works and you&#39;ll be able to add elements to it.
+You have a StringLinkedList class, which has first and last fields that point to the first and last elements respectively.
+You need to implement the logic of the add method, which will add elements to the list.
+
+Hints:
+1. To achieve the correct implementation, it is important to understand that you can iterate over the list both from the first element to the last,
+and vice versa. So when you add new elements, don&#39;t forget to change the references in the adjacent elements.
+2. The add method must create a new Node object, which will store the passed value. Before adding a new node,
+you need to change the last node&#39;s reference so that it points to the newly created one, and the newly created node will become the last node.
+3. If there is a single element in the list, then the first.next and last.prev fields both point to it.
+4. The printAll method was created for debugging. It is not involving in verifying the task.
+
+Important:
+Node first should not store a value. It only points to the first element (first.next);
+Node last also does not store a value. It only points to the last element (last.prev).
+
+
+Требования:
+1.	When a new element is added, existing elements should get a reference it.
+2.	When a new element is added, it should store a reference to the previous element.
+3.	The StringLinkedList class&#39;s first field should always refer to the first element and not contain the value of the previous element (prev field) or a reference to it.
+4.	The StringLinkedList class&#39;s last field should always refer to the last element and not contain the value of the next element (next field) or a reference to it.
+
+

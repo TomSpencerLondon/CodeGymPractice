@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task14.task1403"\n\nTeaching assistant - 2
+
+The program reads a number from the console, finds the corresponding student in the list, and calls on him or her to answer. It even handles invalid numbers.
+But there is another problem: if a non-integer is entered, the parseInt method throws a NumberFormatException.
+Wrap some code in a try-catch block so that the program continues to run even if a non-integer is entered.
+And if the input is not an integer, then display &quot;You must enter an integer&quot; and execute continue; so the loop works correctly.
+
+
+Требования:
+1.	The program should continue running if a non-integer is entered.
+2.	The program should display &quot;You must enter an integer&quot; every time a non-integer is entered.
+
+

@@ -1,0 +1,26 @@
+taskKey="en.codegym.task.pro.task14.task1401"\n\nWork as a handler
+
+First, figure out what the program does, and then:
+In the addUser method, handle the value returned by the setName method:
+if setName returns -1, then display: &quot;The name cannot be null.&quot;
+if it returns -2, then display: &quot;The name cannot be empty.&quot;
+if it returns -3, then display: &quot;The name cannot contain numbers.&quot;
+if it returns any other value other than 0, then display: &quot;Unknown error.&quot;
+
+In the addUser method, handle the value returned by the setAge method:
+if setAge returns -1, then display: &quot;The age cannot be less than 0.&quot;
+if it returns -2, then display: &quot;The age cannot be greater than 150.&quot;
+if it returns any other value other than 0, then display &quot;Unknown error.&quot;
+
+In the findUserIndex method, handle the value returned by the indexOf method:
+if indexOf returns -1, then display &quot;User &#39;&lt;user name&gt;&#39; not found.&quot; otherwise, leave the current message.
+
+Don&#39;t change the User class.
+
+
+Требования:
+1.	The value returned by the setName method must be handled.
+2.	The value returned by the setAge method must be handled.
+3.	The value returned by the indexOf method must be handled.
+
+

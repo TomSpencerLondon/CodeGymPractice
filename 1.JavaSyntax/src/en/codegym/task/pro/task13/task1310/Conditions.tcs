@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task13.task1310"\n\nStudent performance — 2
+
+The Solution class declares a HashMap&lt;String, Double&gt; grades field, whose key is the student&#39;s full name,
+and whose value is the student&#39;s average grade. This time your task is to implement the following methods:
+printStudents, which prints only the names of each student (the collection&#39;s key);
+getAverageMark, which returns the average grade of all students.
+
+
+Требования:
+1.	In the Solution class, you need to initialize a public static HashMap&lt;String, Double&gt; grades field.
+2.	The printStudents method should print each student (full name) in the grades collection on a new line.
+3.	The getAverageMark method should return the average grade of all students in the grades collection.
+
+

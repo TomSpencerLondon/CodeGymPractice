@@ -1,0 +1,15 @@
+taskKey="en.codegym.task.pro.task15.task1504"\n\nMixed-up bytes
+
+Write a program that reads the path to file1 and the path to file2 from the console.
+Then it writes all the bytes from file1 to file2, but in doing so it swaps them according to this rule: swap the first with the second, the third with the fourth, and so on.
+If the last byte in file1 is odd, then write it to file2 as is. To read and write files, use the newInputStream and newOutputStream methods of the Files class.
+
+
+Требования:
+1.	The program should read file paths from the console.
+2.	The program must rewrite bytes from one file to another in accordance with the task conditions.
+3.	To read and write files, the newInputStream and newOutputStream methods of the Files class should be used.
+4.	Streams for reading and writing must be closed.
+5.	Do not use the following classes from the java.io package: File, FileInputStream, FileOutputStream, FileReader, FileWriter.
+
+

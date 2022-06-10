@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task14.task1406"\n\nBuy an elephant
+
+Figure out what the program does.
+In the catch block, display the answer variable and rethrow the caught exception.
+
+
+Требования:
+1.	After you enter &quot;OK&quot; from the keyboard, the program should end with a SecurityException.
+2.	In the catch block, the answer variable should be displayed such that all previously entered lines are displayed in reverse order after &quot;OK&quot; is entered on the keyboard.
+3.	The catch block should throw the caught exception, not a new one.
+
+

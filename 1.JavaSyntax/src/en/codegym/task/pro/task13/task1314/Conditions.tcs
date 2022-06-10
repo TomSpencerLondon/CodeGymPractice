@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task13.task1314"\n\nStringLinkedList — Part 2
+
+By solving this task, you will learn how to extract an item from a doubly linked list.
+We have implemented the add method, which adds elements to the end of the list. You need to implement the get(int) method,
+which will return the string at the index passed to the method. If there is no string with that index, you need to return null.
+Remember that first and last store references to the first and last element respectively.
+
+
+Требования:
+1.	The get(int index) method should return the element at the passed index in the list.
+
+

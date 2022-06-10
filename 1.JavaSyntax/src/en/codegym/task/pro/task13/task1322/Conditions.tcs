@@ -1,0 +1,11 @@
+taskKey="en.codegym.task.pro.task13.task1322"\n\nTypes of polygons
+
+The Solution class has a getShapeNameByCornerCount(int) method that returns the name of a polygon depending on the number of its corners.
+Your task is to rewrite the method using only a switch statement.
+
+
+Требования:
+1.	The result of the getShapeNameByCornerCount(int) method should not change.
+2.	Only a switch statement should be used in the getShapeNameByCornerCount(int) method.
+
+
