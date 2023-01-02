@@ -1,0 +1,13 @@
+taskKey="en.codegym.task.pro.task15.task1505"\n\nSomething isn't being copied...
+
+There is a program that reads the path to file1 and the path to file2 from the console and copies the contents of file1 to file2.
+But it doesn&#39;t work correctly. Find and fix errors in the code so that the program works as it should.
+
+
+Требования:
+1.	The program should read file paths from the console.
+2.	The program must rewrite the contents from one file to another.
+3.	Streams for reading and writing must be closed.
+4.	Do not use the following classes: File, FileInputStream, FileOutputStream, FileReader, FileWriter (of the java.io package).
+
+

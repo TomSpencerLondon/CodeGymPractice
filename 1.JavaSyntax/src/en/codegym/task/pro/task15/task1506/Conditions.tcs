@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task15.task1506"\n\nFace control
+
+Write a program that reads the name of a text file from the console, then reads characters from this file (use the readAllLines(Path) method of the Files class) and displays everything except periods, commas, and spaces.
+
+
+Требования:
+1.	The program should read a path to a file from the console.
+2.	The program should display the contents of the file on the console in accordance with the task conditions.
+3.	To read lines from the file, the readAllLines(Path) method of the Files class should be used.
+4.	Do not use the following classes: File, FileInputStream, FileOutputStream, FileReader, FileWriter (of the java.io package).
+
+
